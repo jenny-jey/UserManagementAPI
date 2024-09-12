@@ -1,0 +1,5 @@
+﻿to add a new Migration
+--------------------------------
+dotnet ef migrations add Initial --project "UserAPI.DataAccess\UserAPI.DataAccess.csproj" --startup-project "UserAPI.API\UserAPI.API.csproj" --verbose
+ -- or -- 
+ dotnet ef database update --project "UserAPI.DataAccess\UserAPI.DataAccess.csproj" --startup-project "UserAPI.API\UserAPI.API.csproj" --verbose

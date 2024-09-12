@@ -1,0 +1,14 @@
+D:\UserAPI\UserAPI.DataAccess\bin\Debug\net8.0\UserAPI.DataAccess.deps.json
+D:\UserAPI\UserAPI.DataAccess\bin\Debug\net8.0\UserAPI.DataAccess.dll
+D:\UserAPI\UserAPI.DataAccess\bin\Debug\net8.0\UserAPI.DataAccess.pdb
+D:\UserAPI\UserAPI.DataAccess\obj\Debug\net8.0\UserAPI.DataAccess.csproj.AssemblyReference.cache
+D:\UserAPI\UserAPI.DataAccess\obj\Debug\net8.0\UserAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserAPI\UserAPI.DataAccess\obj\Debug\net8.0\UserAPI.DataAccess.AssemblyInfoInputs.cache
+D:\UserAPI\UserAPI.DataAccess\obj\Debug\net8.0\UserAPI.DataAccess.AssemblyInfo.cs
+D:\UserAPI\UserAPI.DataAccess\obj\Debug\net8.0\UserAPI.DataAccess.csproj.CoreCompileInputs.cache
+D:\UserAPI\UserAPI.DataAccess\obj\Debug\net8.0\UserAPI.DataAccess.dll
+D:\UserAPI\UserAPI.DataAccess\obj\Debug\net8.0\refint\UserAPI.DataAccess.dll
+D:\UserAPI\UserAPI.DataAccess\obj\Debug\net8.0\UserAPI.DataAccess.pdb
+D:\UserAPI\UserAPI.DataAccess\obj\Debug\net8.0\ref\UserAPI.DataAccess.dll
+D:\UserAPI\UserAPI.DataAccess\bin\Debug\net8.0\UserAPI.DataAccess.runtimeconfig.json
+D:\UserAPI\UserAPI.DataAccess\obj\Debug\net8.0\UserAPI.DataAccess.genruntimeconfig.cache
