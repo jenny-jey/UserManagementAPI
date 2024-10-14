@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "45YGGlLKY+9DdiTij54PlplUCL2LTOEpuITFA0ysBBDjAitUieuuAxwisIDctQqUrSvvbdGRnkDpF1J399mAWQ==",
+  "dgSpecHash": "eckAWYAvZaIlgOvtKQdVssd3dqaNrDwuNbxt+us2OHtLW6a+KWfTKaTtsCk4EYwZDB/KU6owkwEhNZeq4CKbYg==",
   "success": true,
   "projectFilePath": "D:\\UserAPI\\UserAPI.Tests\\UserAPI.Tests.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "C:\\Users\\JeniferJeyakodi\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\JeniferJeyakodi\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
     "C:\\Users\\JeniferJeyakodi\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\JeniferJeyakodi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\JeniferJeyakodi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\JeniferJeyakodi\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
     "C:\\Users\\JeniferJeyakodi\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
